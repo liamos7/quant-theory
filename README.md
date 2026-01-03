@@ -48,15 +48,13 @@ calibrated Heston, estimated vol risk premium.
 
 ---
 
-### 2. [Variance Swap Pricing](projects/02_variance_swaps/) *(Coming Soon)*
-Replication-based pricing using log contracts and comparison to stochastic 
-volatility models.
-
-### 3. [Options Greeks and Dynamic Hedging](projects/03_greeks_hedging/) *(Coming Soon)*
+### 2. [Options Greeks and Dynamic Hedging](projects/02_greeks_hedging/) *(Coming Soon)*
 Simulation of delta-gamma hedging with transaction costs and comparison to 
 theoretical costs.
 
-### 4. [Strategy Backtesting Framework](projects/04_strategy_backtest/) *(Coming Soon)*
+---
+
+### 3. [Strategy Backtesting Framework](projects/03_strategy_backtest/) *(Coming Soon)*
 Historical analysis of covered calls, iron condors, and volatility arbitrage 
 strategies.
 
