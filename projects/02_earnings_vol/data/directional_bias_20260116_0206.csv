@@ -1,0 +1,12 @@
+sector,Avg_Return,Median_Return,Win_Rate,Sample_Size
+Communication Services,-0.09,0.9,0.56,89
+Real Estate,0.0,0.8,0.55,122
+Utilities,0.39,0.36,0.54,123
+Industrials,0.61,0.24,0.52,309
+Consumer Discretionary,-0.27,-0.15,0.5,183
+Financials,-0.41,0.02,0.5,279
+Health Care,-0.08,0.01,0.5,228
+Materials,-1.08,-0.4,0.48,104
+Consumer Staples,0.01,-0.32,0.47,144
+Information Technology,0.16,-0.44,0.47,264
+Energy,-0.23,-0.9,0.4,84
