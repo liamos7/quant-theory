@@ -47,8 +47,22 @@ calibrated Heston, estimated vol risk premium.
 [View Project →](projects/01_volatility_surface/)
 
 ---
-### 2. [Earnings Announcements and Implied Volatilities](projects/02_earnings_vol/) *(Coming Soon)*
-Analysis of implied volatility around earnings announcements and mispricing identification.
+### 2. [Earnings Announcements and Volatility](/projects/02_earnings_vol)
+
+**Objective:** Understand how historical volatility and implied volatility behave with stock behavior around earnings announcements.
+
+**Key Techniques:**
+* Historical Volatility (HV) baseline vs. Event-driven Realized Volatility
+* "Earnings multiplier" analysis ($RV_{earnings} / \sigma_{baseline}$) across GICS sectors
+* VIX regime conditioning
+* Directional bias and "Win Rate" statistical testing
+* IV analysis (coming soon with better historical data)
+
+**Results:** Identified that the Communication Services sector exhibit the highest shock multiplier (~4.2x), while Energy displays the lowest (~2.0x). Confirmed that earnings multipliers contract during High-VIX regimes due to volatility normalization.
+
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, yfinance
+
+[View Project →](projects/02_earnings_vol/)
 
 ---
 
