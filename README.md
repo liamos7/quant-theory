@@ -20,7 +20,6 @@ covering the mathematical foundations of quantitative finance:
 - Interest rate and credit models
 - Portfolio optimization and risk management
 - Numerical methods (Monte Carlo, finite difference)
-- Machine learning applications
 
 These notes synthesize material from Shreve, Bjork, and academic papers.
 
